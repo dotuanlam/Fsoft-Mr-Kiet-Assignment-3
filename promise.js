@@ -28,10 +28,6 @@ function Didao() {
     });
 }
 
-
-
-
-
 ConThoDiAn(gioBatDauDi)
     .then((dian) => console.log(dian))
     .then(coiPhim)
